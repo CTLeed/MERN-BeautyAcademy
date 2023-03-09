@@ -4,7 +4,6 @@ import { useJsApiLoader, GoogleMap, Marker, LoadScript } from "@react-google-map
 import Box from "@mui/material/Box";
 import CircularIndeterminate from "./Spinner";
 
-// <Wrapper apiKey={"AIzaSyB3tCuOcUt5xhyvvDt5ZzjZZT53mixSL2o"} render={render}>
 
 const MapContainer = () => {
 
